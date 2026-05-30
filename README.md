@@ -18,7 +18,7 @@ The project explores how these companies applied the 5 stages of design thinking
 5. Test
 
 ## Project Type
-Group Project (5 Members)
+Group Project (7 Members)
 
 ## My Contribution
 - Research and analysis
